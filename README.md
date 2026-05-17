@@ -1,4 +1,3 @@
-````md
 # HOW TO — Executar a API Movies via Docker (qualquer máquina)
 
 Este guia permite subir toda a aplicação utilizando apenas Docker, a partir do `git clone`, incluindo:
@@ -523,4 +522,3 @@ docker rmi movies-app-rm563409
 ✓ SELECT diretamente no MySQL  
 ✓ Persistência após reiniciar o banco  
 ✓ Aplicação acessível via navegador/Postman/curl
-````
