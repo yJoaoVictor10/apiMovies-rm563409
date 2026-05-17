@@ -511,14 +511,3 @@ docker rmi movies-app-rm563409
 ```
 
 ---
-
-# Evidências que devem aparecer no vídeo
-
-✓ `docker ps` funcionando  
-✓ `docker logs` da API  
-✓ `docker network inspect`  
-✓ `docker exec` + `whoami`  
-✓ CRUD completo via API  
-✓ SELECT diretamente no MySQL  
-✓ Persistência após reiniciar o banco  
-✓ Aplicação acessível via navegador/Postman/curl
